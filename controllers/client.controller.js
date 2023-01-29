@@ -1,5 +1,5 @@
 
-const url = "https://randomuser.me/api/?results=15&inc=name,dob,gender,email,nat,picture";
+const url = "https://randomuser.me/api/?results=15&inc=name,dob,gender,email,nat,picture&results=15";
 
 let tableData = "";
 
